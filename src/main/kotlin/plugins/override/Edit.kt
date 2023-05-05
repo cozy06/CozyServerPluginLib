@@ -1,4 +1,4 @@
-package plugin.override
+package plugins.override
 
 class Edit {
     interface EditCommand {

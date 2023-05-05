@@ -1,4 +1,4 @@
-package plugin.override
+package plugins.override
 
 data class CommandLogic(
     val name: List<String>,

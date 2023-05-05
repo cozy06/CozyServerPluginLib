@@ -1,4 +1,4 @@
-package plugin.override
+package plugins.override
 
 import com.github.cozy06.Logic.Companion.loop
 
